@@ -22,6 +22,6 @@ Lucro\ do\ Proprietário(LP) = Lucro\ Líquido + Depreciação\ e\ Amortização
 $$
 Caso você prefira utilizar o LP, assim como Buffett, basta substituir o FCFF na equação.
 
-Aqui você encontrará um arquivo em Python com uma função que calcula o valor de uma empresa, a partir de premissas determinas pelo usuário. Se atente ao determinar essas premissas, pois, caso elas estejam muito além da realidade, o cálculo do valor intrínseco da empresas será prejudicado.
+Aqui você encontrará um arquivo em Python com uma função que calcula o valor de uma empresa, a partir de premissas determinas pelo usuário. Se atente ao determinar essas premissas, pois, caso elas estejam muito além da realidade, o cálculo do valor intrínseco da empresa será prejudicado.
 
 > É melhor estar aproximadamente certo do que precisamente errado.
