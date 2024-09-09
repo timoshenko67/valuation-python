@@ -16,7 +16,7 @@ $$
     d = taxa de Desconto
     g = Taxa de Crescimento na Perpetuidade 
 
-Warren Buffett utiliza o Lucro do Proprietário para fazer seus valuations. Seu cálculo é feto da seguinte maneira:
+Warren Buffett utiliza o Lucro do Proprietário para fazer seus valuations. Seu cálculo é feito da seguinte maneira:
 $$
 Lucro\ do\ Proprietário(LP) = Lucro\ Líquido + Depreciação\ e\ Amortização +exaustão - CAPEX
 $$
